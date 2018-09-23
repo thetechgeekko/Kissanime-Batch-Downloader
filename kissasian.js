@@ -3,7 +3,7 @@
 
 // CONFIG
 var siteName = "Kissasian"
-var rootUrl = 'http://kissasian.com'
+var rootUrl = 'http://kissasian.sh'
 var URL = window.location.origin
 // END CONFIG
 
